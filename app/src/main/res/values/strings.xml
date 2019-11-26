@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Applicant Coding Challenge</string>
+    <string name="title_blog">Blog</string>
+    <string name="title_map">Map</string>
+</resources>
